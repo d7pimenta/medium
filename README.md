@@ -6,7 +6,7 @@
 
 ## :eyes: Site de demonstração
 
-Você pode acessar o site [aqui.](https://d7pimenta.github.io/calculadora-app/)
+[Github](https://github.com/d7pimenta/calculadora-app) [Site](https://d7pimenta.github.io/calculadora-app/)
 
 <p align="center">INSTRUÇÕES</p>
 
